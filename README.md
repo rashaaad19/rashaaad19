@@ -10,7 +10,7 @@
   
 🌱 I’m currently learning **Typescript, Next.js, Tailwind**
 
-💬 Ask me about **Javascript, CSS, HTML, Firebase... or anything [here](https://github.com/rashaaad19/rashaaad19/issues)**
+💬 Ask me about **Javascript, CSS, HTML, React... or anything [here](https://github.com/rashaaad19/rashaaad19/issues)**
 
 ⚡ Fun fact: **The symbol on USB connectors is based on Neptune's Trident, symbolizing compatibility across different devices**
 
