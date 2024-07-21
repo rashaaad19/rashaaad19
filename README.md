@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
   
-🔭 I’m currently working on **CRUD system web application** 
+🔭 I’m currently working on **MoviesMate** 
   
 🌱 I’m currently learning **Typescript, Next.js, Tailwind**
 
