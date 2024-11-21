@@ -12,7 +12,6 @@
 
 💬 Ask me about **Javascript, CSS, HTML, React... or anything [here](https://github.com/rashaaad19/rashaaad19/issues)**
 
-⚡ Fun fact: **The symbol on USB connectors is based on Neptune's Trident, symbolizing compatibility across different devices**
 
 </div>
 <div align="center">
