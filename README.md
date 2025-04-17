@@ -6,9 +6,9 @@
 <br/>
 <div align="center">
   
-🔭 I’m currently working on **MoviesMate** 
-  
-🌱 I’m currently learning **Typescript, Next.js, Tailwind**
+<!-- 🔭 I’m currently working on **MoviesMate** -->
+
+🌱 I’m currently taking a **Frontend and Cross-Platform** development course at **ITI**
 
 💬 Ask me about **Javascript, CSS, HTML, React... or anything [here](https://github.com/rashaaad19/rashaaad19/issues)**
 
